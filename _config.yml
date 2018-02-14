@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+# download shows
+show_downloads: true
