@@ -1,6 +1,7 @@
 #!/bin/bash
 #Program:
 #	饥荒linux系统服务器开服脚本
+#just for fun
 #History:
 #2016/11/12  欲醉无由   第一次完成
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
